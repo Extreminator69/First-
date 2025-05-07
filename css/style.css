@@ -1,0 +1,19 @@
+body
+{
+    background-color:beige
+}
+
+h1
+{
+    color:black;
+    font-family:Arial;
+    font-size:300%;
+    padding: 20px
+}
+
+h2
+{
+    color:black;
+    font-family:Helvetica;
+    font-size:130%
+}
